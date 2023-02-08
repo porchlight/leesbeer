@@ -3,12 +3,15 @@
 Build with retype https://retype.com
 
 To install
+
 `npm install retypeapp --global`
 
 To start/build
+
 `retype watch`
 
 To update
+
 `npm update retypeapp --global`
 
 Sample Alert component
