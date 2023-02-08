@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://porchlight.github.io/leesbeer/sitemap.xml.gz
