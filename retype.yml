@@ -6,6 +6,8 @@ branding:
   label: BIAB
   logo: lee.png
 favicon: lee.png
+meta:
+  title: " | Lee's Training Module"
 editor:
   enabled: false # Default is true
 links:
