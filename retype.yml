@@ -2,12 +2,12 @@ input: .
 output: .retype
 url: porchlight.github.io/leesbeer/
 branding:
-  title: Lee's Training Module
+  title: Lee's Training
   label: BIAB
   logo: lee.png
 favicon: lee.png
 meta:
-  title: " | Lee's Training Module"
+  title: " | Lee's Training"
 editor:
   enabled: false # Default is true
 links:
