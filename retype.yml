@@ -17,6 +17,9 @@ links:
 - text: Equipment
   link: /leesbeer/equipment
   icon: tools
+- text: Ingredients
+  link: /leesbeer/ingredients
+  icon: archive
 - text: Process
   link: /process
   icon: log
