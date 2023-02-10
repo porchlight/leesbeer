@@ -102,31 +102,17 @@
 
 **IBU (International Bitterness Unit):** unit of measurement used to express a beer¹s bitterness as milligrams of iso-alpha-acid (a compound created when alpha acids are boiled) per liter of beer.
 
-**Immersion heater:** a heating device used to maintain a constant temperature in the mash tun.
-
 **Infusion mashing:** the traditional British method of mashing, primarily used in ale brewing. It occurs at a single temperature and is carried out in a combination mash-lauter vessel called an infusion mash tun.
 
-**Invert sugar:** a mixture of fructose and glucose produced by chemically breaking down sucrose; used for boosting gravity and priming.
-
 **Irish moss:** a red seaweed added at the end of the boiling process as a fining agent.
-
-**Iron:** an ion that causes haze and oxidation and hinders yeast.
-
-**Isinglass:** a gelatinous substance derived from the swimming bladder of sturgeon fish, also used as a fining agent.
  
 ### J
-
-**Jetting machine:** an automatic machine used to wash bottles.
-
-**Jingle:** a beverage consisting of ale that is sweetened and flavored with nutmeg and apples.
 
 **Jockey box:** a beverage-dispensing system, often used to serve beer, consisting of a picnic cooler with an internal cooling coil and one or more externally mounted taps. The cooler is filled with ice, and the beverage is chilled as it passes through the coil to the tap.
  
 ### K
 
 **kegging:** drawing beer from the fermenter to the keg.
-
-**keggle:** nickname for a commercial beer keg that has been converted into a homebrewing beer kettle.
 
 **kettle:** a large vessel used to heat wort.
 
@@ -156,8 +142,6 @@
 
 **malt:** barley or other grain steeped in water and germinated to create enzymes to be used in mashing, then kilned to stop the growth of the grain and to reduce moisture.
 
-**maltase:** the enzyme that catalyzes the reaction that coverts maltose into dextrose.
-
 **malt extract:** wort concentrated into a syrup or powder by removing all or most of the water.
 
 **mash:** (n.) a mixture of milled malted grains and hot water used to produce the sweet wort needed in brewing. (v.) mixing ground malt with hot water in the mash tun to extract the malt starch and convert it to grain starches and fermentable sugars.
@@ -168,47 +152,23 @@
 
 **mead:** a beverage produced by fermenting honey.
 
-**melomel:** mead flavored with fruit.
-
-**metheglin:** mead flavored with spices.
-
-**milk of amnesia:** a term for old ale, a strong, dark draft beer with a high original gravity served in Britain.
-
 **milling:** grinding the malt into grist before extracting sugars during mashing.
-
-**modification:** the net physical changes that occur within the barley kernel as it is converted from barley to malt.
  
 ### N
 
 **natural conditioning:** a secondary fermentation that occurs during ageing. During this maturation period there are still live yeast in the beer.
 
-**Ninkasi:** the Sumerian goddess of beer.
-
 **noble hops:** a variety of hops grown in Germany and Belgium. They are renowned for their flavor and aroma.
-
-**nonhopped:** any style beer or malt extract that has not had contact with hops.
 
 **nonflocculating yeast:** Bottom fermenting yeast that do not form clumps while fermenting.
 
-**Northern Brewer:** a variety of hops grown in Kent, England, containing 8.5­11 percent alpha acids. It also grows in the northwestern United States, to even higher alpha acid levels.
-
 **nose:** a term used in tastings to describe the overall fragrance, aroma and bouquet of a beer or wine.
 
-**Nugget:** a variety of hops that grow in North America. This hop strain typically has about 9­13% alpha acid content.
-
-**nutrients:** like any living creature, yeast require nutrients to remain healthy while performing their duty (i.e. fermentation). The essential nutrients are nitrogen and phosphorous, which are typically packaged and sold as “yeast nutrients” to add right after pitching your yeast.
-
-**Nuts and Bolts:** A mix of a mild and bitter ale that is popular in England (most popular in the East Anglia region).
- 
 ### O
 
 **off-flavor:** a term used to describe any taste in a brew that is inconsistent with the style or is just offensive. These flavors are often caused by poor sanitation, excessive aging and oxidation.
 
 **original gravity (OG):** this is the specific gravity of a wort before it goes through any fermentation. The measurement tells you the amount of solids that are in a wort in reference to that of pure water at a certain temperature (which is given the value of 1.000 SG).
-
-**Oktoberfest:** both a German festival and a German brew. The festival started nearly two hundred years ago in Munich and is now a 16-day event. The brew is typically lagered and cold-cellared for at least eight weeks and German beer laws demand a starting gravity of at least 1.052.
-
-**old ale:** a dark English style ale that is meant to age at least one year. This ale has an acidic flavor that was originally caused by lactic acid. This acid was formed by the Lactobacilli contained in the wooden storage vessels where they were aged in the late nineteenth century.
 
 **over-priming:** this is a flaw in bottling where too much sugar is added to the brew before bottling or kegging. The result is an over carbonated brew, or worse case scenario “bottle explosion.”
 
@@ -238,13 +198,7 @@
 
 **racking cane:** a plastic tube with an arced end that is attached to a hose and used to siphon brew. The arced end stays above the solids when lowered to the bottom of a fermenter and helps to leave sediment behind.
 
-**rauchbier:** An amber colored brew from Germany that is noted for its smoked flavor that derives from roasting and drying malts over an open fire.
-
-**real ale:** an ale that hails from England and is cask-conditioned in the cellar. Real ales are often served from casks in the pub with a beer engine.
-
 **rest:** during the mash, brewers hold the mash at a predetermined temperature in order to draw out certain enzymes from the grain.
-
-**RIMS:** an acronym for Recirculating Infusion Mash System, a type of brewing system that many homebrewers use.
 
 **roasted barley:** an unmalted barley that is roasted in a kiln to give it a dark color and a bit of a bitter flavor.
 
@@ -280,13 +234,9 @@
 
 **tertiary fermentation:** this is a fermentation that is carried out in bottles as a conditioning technique.
 
-**Tettnang:** a German hop variety in the 3­5 percent alpha acid range.
-
 **thermometer:** a tool for measuring temperature. Thermometers specifically made for brewing use alternative materials to mercury (such as alcohol) as a precautionary measure, so that if the thermometers break, no poisonous chemicals will infect the beer.
 
 **toasted malt:** a pale malt that is kilned for varying amounts of time, at different temperatures in order to produce certain “toasty” flavor characteristics.
-
-**tonne:** a wooden cask that is 2.2 barrels (68.2 gallons/259.1 L) in volume.
 
 **top fermentation:** a fermentation method that utilizes yeast that hover on the surface as opposed to sinking to the bottom. Ales are “top fermented” beers while lagers are bottom fermented.
 
@@ -299,36 +249,14 @@
 ### U
 
 **U.K. gallon:** A synonym for imperial gallon, the English measurement equal to ~1.2 U.S. Gallons. Similarly, the fractional volumes of U.K. pints and quarts are also the equivalent volume greater than the U.S. measurement.
-
-**ullage:** A term that refers to calculating the headspace of a cask, keg or barrel.
-
-**uni-tanks:** a type of fermenter that is used for both primary fermentation and conditioning.
-
-**unload:** the process of emptying the steeped malts from the steeping vessel.
-
-**undermodified malt:** Malt containing barley or other grains that have been kilned or dried out in a way that prevented all the enzymes from transforming into proteins.
-
-**underoxygenated:** A term used to describe worts that have not been sufficiently aerated for fermentation. Yeast need an adequate amount of oxygen to effectively convert sugar to alcohol (and CO2).
  
 ### V
 
-**VGA:** an American hop variety providing medium bitterness.
-
-**Vienna lager:** A style that derives from Austria that is amber in color. In modern day, Mexico has made this style popular through beers like Dos Equis Amber.
-
 **viscosity:** As an adjective, this descriptor refers to body and mouthfeel, but it literally refers to the resistance of liquid (beer) to flow ‹ i.e. its thickness.
-
-**volatile acids:** Acids in beer and other beverages that are decreased through evaporation, chemical treatment and fermentation.
 
 **vorlauf:** German word referring to the process of recirculating wort through the grain bed.
  
 ### W
-
-**wallop:** a slang British term used for mild beers with low alcohol.
-
-**weissbier:** the German term for wheat beer. Weiss literally means white and wheat beers are very pale in color.
-
-**weizenbier:** the German term for top-fermented wheat beers.
 
 **wild yeast:** yeast that is naturally airborne. Originally, all beers were fermented with wild yeast.
 
@@ -336,16 +264,6 @@
  
 ### Y
 
-**yard of ale:** a long neck glass that measures 3 feet (i.e. 1 yard) and holds about a quart of beer.
-
 **yeast:** A single-celled organism of the genus Saccharomyces. During fermentation, yeast convert sugar into alcohol and carbon dioxide.
 
 **yeast nutrients:** These are elements that can be added to a fermentation to promote yeast health and vitality. Homebrew supply shops sell pre-measured packages of yeast nutrients for small batches.
- 
-### Z
-
-**zymase:** enzymes in yeast that produce alcoholic fermentation by converting glucose to alcohols and carbon dioxide.
-
-**zymology (or zymurgy):** the science of fermentation
-
-**zythos:** Greek name for barleywine
