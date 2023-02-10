@@ -3,10 +3,11 @@
 ==- Brew Kettle
 - [x] obtained
 
-This was acquired from that weird auction site, it is kind of mishapen. Because of that, the measurements on the inside are not accurate. I would always measure the water before pouring in with a bucket that has the measurements on it.
+This was acquired from that weird auction site and it is kind of mishapen. Because of that, the measurements on the inside are not accurate. I would always measure the water before pouring in with a bucket that has the measurements on it.
 
 The other annoying thing about this is the temperature probe sticks into the kettle kinda far, so you have to remember its there when you pull our your brew bag or you could snag the back on it. It's also a pain when you are stirring the wort when trying to cool it down. You could take this out of the port and get a plug instead and just rely on an instant read thermometer if you wanted, but it's not THAT bad, just minor annoyance. It does give an accurate reading at least.
 
+This is a big ass kettle. You probably could do 10 gallon batches in it, but I have never tried.
 ==- Brew Bag
 - [x] obtained
 
