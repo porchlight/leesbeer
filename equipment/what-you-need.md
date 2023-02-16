@@ -32,34 +32,64 @@ You need these for dry-hopping. You put your hops in a bag then use magnets to s
 - [ ] obtained
 
 You need a big spoon or paddle to stir in the grains so you don't get "doughballs", basically clumps of grain that stick together and wouldn't have their sugars extracted properly. You need to break them up when you dump in the grain. Also, stir the wort post-boil helps to chill the work.
-==- lighter
+==- BBQ Lighter
 - [x] obtained
 
 Need a bbq lighter to light the propane burner. Could use a match or bic but id highly recommend a bbq lighter.
-==- pitcher
+==- Grain mill and board
+- [ ] obtained
+
+You won't need this right away but this is used to "crush" the grains. You need the grains to be crushed before you mash. Basically its busting open the grains to expose the fermentable sugars. When I started I just bought my grains pre-crushed. So wherever I bought my grain from, they would crush them for me. It costs a little extra but it's only noticeable after doing a lot of batches. Once I made the decision to buy in bulk since I was using a lot of the same grain, then I had to buy a grain mill in order to crush my own grains. I did the math at some point and it would pay for itself after like 15 brews, so I'm probably just coming up on that now. Anyways, you don't need this until you know you like doing this.
+==- Instant read thermometer
+- [ ] obtained
+
+This isn't absolutely necessary if you have another termometer, but the one I got is off amazon and was pretty cheap. It's good for meat too if you don't have one already. Sometimes I need to check the temp of the wort with this for instance when I'm taking a hydrometer reading, I want to know the temperature of the wort because that plays into the reading. This one is cheap and works great https://a.co/d/f6KKbD3
+==- Bar Keepers Friend
+- [ ] obtained
+
+This is a cleaning powder similar to Comet,  it's made for cleaning metal, like stainless steel, silver, copper, shit like that. You can get it at any hardware store for like 7 bucks, lasts forever.
+==- OxiClean
+- [ ] obtained
+
+This is a more affordable substitute for "PBW". It's another cleaning powder. You need to use this to sanitize your equipment before you begin your brew. I will explain everything about cleaning, but you absoltely need this shit. and UNSCENTED - here it is on amazon https://a.co/d/aR37YkU - shit lasts forever.
+==- Airlock and #10 rubber bung
+- [ ] obtained
+
+An air lock if a little plastic thing that you use on your fermentation bucket in order to let out CO2 that the yeast puts out, and keep O2 out. You want to do everything you can to avoid "oxygenating" your beer after the yeast has started. It can cause off flavours. Anyways, you take one of these things, close your fermenter and put the rubber bung in the hole, and then stick this airlock in the bung and poor some water in it to keep oxygen out of your fermenter. You probably want a couple airlocks cause they break kinda easy if you are tough with them.
+==- Buckets
+- [ ] obtained
+
+You need at least 3 brew buckets. You need them to have gallon measurements written on them. 1 bucket you will be using as your fermenter so it needs a lid with a hole in it (for your bung and airlock), and it should also have a spigot to make bottling day a hell of a lot easier. The other two buckets are good to have. One can be your grain bucket, so you can prep your brew by putting all your grains in this bucket (especially useful if you are crushing your own). The third bucket can be your wet bucket, use it for measuring out your brewing water, and sanitizing tools and stuff prior to racking the wort to your fermentor.
+==- Dry hop bag
 - [x] obtained
-==- grain mill and board
+
+You need at least 1 of these in order to dry hop your beer. 2 if you want to "DDH". Basically it's just a mesh bag that you can put hops in. I will detail the dry hopping process later.
+==- Pipe cleaners
 - [ ] obtained
-==- instant read thermometer
+
+Good to have a ring of different sizes of these for cleaning ball valves. Link to amazon ones https://a.co/d/idiDRUZ
+==- Star San
 - [ ] obtained
-==- bar keepers friend
+
+Must have sanitizing solution. It's acid so don't get to much on your hands, I do all the time, but it makes them dry so I try to avoid. Basically ANYTHING that your beer will come in contact with has to be sanitized and this is what that is for. You will get used to using this a lot.
+==- Spray bottle
 - [ ] obtained
-==- oxy clean
+
+Super handy to have this for sanitizing stuff qucikly. I mix a little bit of star san and water in the spray bottle so if I need to touch something with my ands like the spigot of the kettle or something, I can just use this to spray the spigot to quick sanitize it.
+==- Strainer
 - [ ] obtained
-==- airlocks
+
+Not totally necessary but I like to put a steel mesh strainer (sanitized) under my kettle spigot when transferring the wort to the fermentor. This helps with two things: 1) it keeps crud out of the fermenter. 2) it helps to aerate the wort. Apparently you want your wort to be well aerated before you put yeast on it, so this is good for that.
+==- Tylonol dropper
 - [ ] obtained
-==- buckets
+
+Handy to have this for measuring and adding hydrochloric acid to your strike water.
+==- Bottling wand
 - [ ] obtained
-==- dry hop bag
+
+You can attach this to your bottling bucket's spigot with a small piece of 1/8" tubing. You attach it to your spigot and then open the spigot valve to drain the wort into your bottles. What this wand does is it has a spring in it to keep the wort from coming out unless the spout is pushed against the bottom of your bottle. So you put this thing on and then wort only comes out when you put it into the bottom of a bottle. Its genious.
+==- Dishwashing gloves
 - [ ] obtained
-==- pipe cleaners
-- [ ] obtained
-==- spray bottle
-- [ ] obtained
-==- star san
-- [ ] obtained
-==- strainer
-- [ ] obtained
-==- tylonol dropper
-- [ ] obtained
+
+Good to have cause some parts of the process involve touching hot water.
 ==-
