@@ -1,12 +1,9 @@
 # Where to buy
 
-Pretty much there are 3 places I get things from. Each have pros and cons.
-
-**Amazon**
-  - I find Amazon is the best for things that aren't directly specific to brewing. Best selection for things that are specific to brewing. Cheapest prices for things that aren't directly specific to brewing.
+Similar to equipment, minus Amazon since they don't really have any beer ingredients.
 
 **Ontario Beer Kegs (OBK)**
-  - Have the best selection for anything specific to brewing. Have the lowest prices for anything specific to brewing. I'm talking equipment and indredients. Only CON with these guys is their shipping is pricey, so if I am ordering from them I make sure I order a lot of shit so the shipping doesn't hurt that much. If I just need 1 or 2 things then I usually try to hit up my LHBS.
+  - Have a good cheap selection of 5 gallon recipe kits. I would start by brewing a few of these until you know enough to start making your own recipes.
 
 **Local Homebrew Store (LHBS)**
-  - In London it's Danny's Beer and Wine. In Barrie it looks like it's some place called [Hopback Homebrewing Supplies](https://hopbackbrew.ca/) . The selection sucks compared to OBK, but sometimes in a pinch I will buy stuff from here. I basically always compare prices between Danny's and OBK (after shipping) anytime I buy things.
+  - Good for one off things if you need to reup on some brewing salts, or missing a pound of something, but their hop and grain selection sucks compared to OBK.
