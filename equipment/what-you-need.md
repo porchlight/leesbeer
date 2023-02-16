@@ -31,11 +31,11 @@ You need these for dry-hopping. You put your hops in a bag then use magnets to s
 ==- Brew paddle/spoon
 - [ ] obtained
 
-Sometimes you need to stir shit.
-==- chemicals
-- [ ] obtained
+You need a big spoon or paddle to stir in the grains so you don't get "doughballs", basically clumps of grain that stick together and wouldn't have their sugars extracted properly. You need to break them up when you dump in the grain. Also, stir the wort post-boil helps to chill the work.
 ==- lighter
 - [x] obtained
+
+Need a bbq lighter to light the propane burner. Could use a match or bic but id highly recommend a bbq lighter.
 ==- pitcher
 - [x] obtained
 ==- grain mill and board
