@@ -4,7 +4,7 @@ Welcome to your training.
 
 Let's begin.
 
-The process generally involves the following steps (in order):
+The homebrewing process generally involves the following steps (in order):
 
 1. **Sanitization:** It is crucial to sanitize all equipment before brewing to ensure that no unwanted bacteria or microorganisms contaminate the beer.
 
@@ -17,3 +17,5 @@ The process generally involves the following steps (in order):
 5. **Bottling or kegging:** After fermentation is complete, the beer is either bottled with a small amount of sugar to carbonate it or transferred to a keg for carbonation and serving.
 
 6. **Conditioning:** The bottled or kegged beer is conditioned at room temperature for a few weeks to allow the flavors to develop and the carbonation to stabilize.
+
+It might be helpful to read the [Glossary](/resources/glossary) and [Acronyms](/resources/acronyms) pages first so you know what the hell I'm talking about throughout this.

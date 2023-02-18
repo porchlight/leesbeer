@@ -49,3 +49,7 @@
 ### S
 
 **SRM** - Standard Reference Method: A system brewers use to specify beer colours.
+
+!!!
+This was straight up stolen from https://brewhq.ca/blogs/academy/know-your-brewing-acronyms
+!!!

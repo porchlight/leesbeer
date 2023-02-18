@@ -24,6 +24,14 @@ This is a vital tool. You need this to measure starting gravity (SG) and final g
 - [ ] obtained
 
 You need this to measure out brewing salts, hops, and grains if you start buying in bulk. This is the one I have, it works great and is cheap as shit https://a.co/d/e2GgZfP
+==- Wort Chiller
+- [x] obtained
+
+You can use my old one but YOU WILL NEED TO BUY HOSE CLAMPS in order to keep the hoses connected. What this is is a copper coil. You attach it to your house water to run cold water through the tubing, you put this in your wort after the boil to cool down your wort quicker. Apparently the longer you take to cool your wort the more susceptible your beer is to infection, but this is kind of a myth. Really though you want to cool it down fast so you can get the day over with quicker. The key thing is, you can't pitch (add) your yeast until the temperature of the wort is below 80 degrees. I usually use this thing to get to like 90, then I'll transfer it to my fermenter, move my fermenter downstairs and clean up everything else, then go down and toss the yeast in.
+==- Hose Clamps
+- [] obtained
+
+You will need at least 4 to keep the hoses all attached to everything. You don't want to end up with hose water in your brew kettle.
 ==- Food Grade Magnets
 - [x] obtained
 
