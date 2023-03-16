@@ -1,5 +1,20 @@
 # What you need
 
+==- Water
+This is probably the most important ingredient. Now you have a few options:
+
+- **Tap water:** Readily available and safe to drink. However, tap water can vary widely in its mineral content, pH, and chlorine/chloramine levels, which can affect the taste and quality of the beer. To use tap water for brewing, it is recommended to test its mineral content and pH and adjust it as needed to suit the desired beer style.
+  - So I was lucky and able to find a water profile for London Ontario on [Brewer's Friend](https://www.brewersfriend.com/homebrew/water-profiles) - I have not been able to find one for Barrie though. However, I asked ChatGPT to figure it out and it actually came back with reasonable numbers, and from the Barrie Water Reports so I averaged things out, and came up with:
+
+Calcium | Magnesium | Sodium  | Chloride  | Sulfate
+---     | ---       | ---     | ---       |
+27      | 10        | 17      | 25        | 25
+
+
+- **Filtered water:** Some homebrewers use filtered water, such as reverse osmosis (RO) or carbon-filtered water, to ensure a consistent and clean water source. This can be especially useful in areas with highly mineralized or chlorinated tap water. However, filtered water may lack the mineral content needed for proper yeast health and flavor development in the beer, so it may need to be supplemented with brewing salts and minerals.
+
+- **Distilled water:** Same as filtered water basically. Gives you a base to build on with brewing salts and minerals.
+
 ==- Grain
 **Base grains:** also known as **base malt** These are the primary source of fermentable sugars in the beer and typically make up the majority of the grain bill. The most commonly used base grains are:
 
