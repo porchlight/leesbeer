@@ -1,21 +1,11 @@
 # What you need
 
-==- Brew Kettle
-- [x] obtained
+==- Brewzilla 35L
+- [ ] obtained
 
-This was acquired from that weird auction site and it is kind of mishapen. Because of that, the measurements on the inside are not accurate. I would always measure the water before pouring in with a bucket that has the measurements on it.
+This is the heart of your setup. The Brewzilla 35L is an all-in-one electric brewing system that replaces your brew kettle, propane burner, and brew bag all in one unit. It has a built-in malt pipe (basically a big metal basket for your grains), dual heating elements (1000W and 500W), a built-in recirculation pump, and a digital temperature controller. You fill it with water, set your mash temp, drop in the malt pipe with your grains, and the pump recirculates wort through the grain bed for better efficiency. When the mash is done, you lift out the malt pipe, set the Brewzilla to boil, and you're off. It runs on a standard 120V outlet. You can do 5 gallon batches comfortably in it. This thing is a game changer compared to wrestling with propane and brew bags outdoors.
 
-The other annoying thing about this is the temperature probe sticks into the kettle kinda far, so you have to remember its there when you pull our your brew bag or you could snag the back on it. It's also a pain when you are stirring the wort when trying to cool it down. You could take this out of the port and get a plug instead and just rely on an instant read thermometer if you wanted, but it's not THAT bad, just minor annoyance. It does give an accurate reading at least.
-
-This is a big ass kettle. You probably could do 10 gallon batches in it, but I have never tried.
-==- Brew Bag
-- [x] obtained
-
-This is the official, gold standard brew bag purchased from https://www.brewinabag.com/ -- This shit rules, its super easy to work with and easy to clean. Their site has good general brewing instructions and a video too for how to use it in your brew https://www.brewinabag.com/pages/instructions -- highly recommend reading and watching.
-==- Propane Burner
-- [x] obtained
-
-Bought this off amazon, haven't had any issues with it. You should be able to get 4-5 brews on one propane tank. I just make sure I've always got backup
+You can get it from OBK or Amazon. Make sure you get the **Gen 3.1.1** or newer.
 ==- Hydrometer and flask
 - [ ] obtained
 
@@ -25,79 +15,87 @@ This is a vital tool. You need this to measure starting gravity (SG) and final g
 
 You need this to measure out brewing salts, hops, and grains if you start buying in bulk. This is the one I have, it works great and is cheap as shit https://a.co/d/e2GgZfP
 ==- Wort Chiller
-- [x] obtained
+- [ ] obtained
 
-You can use my old one but YOU WILL NEED TO BUY HOSE CLAMPS in order to keep the hoses connected. What this is is a copper coil. You attach it to your house water to run cold water through the tubing, you put this in your wort after the boil to cool down your wort quicker. Apparently the longer you take to cool your wort the more susceptible your beer is to infection, but this is kind of a myth. Really though you want to cool it down fast so you can get the day over with quicker. The key thing is, you can't pitch (add) your yeast until the temperature of the wort is below 80 degrees. I usually use this thing to get to like 90, then I'll transfer it to my fermenter, move my fermenter downstairs and clean up everything else, then go down and toss the yeast in.
+This is a copper coil immersion chiller. You hook it up to your garden hose or sink, drop it into the Brewzilla after the boil, and run cold water through the tubing to cool down your wort. The longer you take to cool your wort the more susceptible your beer is to off-flavors, and honestly you just want the brew day to end. You can't pitch (add) your yeast until the temperature of the wort is below 80°F. I usually use the chiller to get down to around 90°F, then transfer to the fermenter and let it coast down the rest of the way before pitching yeast. You'll need hose clamps to keep the hoses attached.
 ==- Hose Clamps
-- [] obtained
+- [ ] obtained
 
-You will need at least 4 to keep the hoses all attached to everything. You don't want to end up with hose water in your brew kettle.
+You will need at least 4 to keep the hoses all attached to everything (wort chiller connections). You don't want hose water getting into your beer.
 ==- Food Grade Magnets
-- [x] obtained
+- [ ] obtained
 
-You need these for dry-hopping. You put your hops in a bag then use magnets to stick the bag to the top of your fermentor. After a few days you remove the magnet on top of your femermentor and then the hops drop in. More on dry-hopping in the process section.
+You need these for dry-hopping. You put your hops in a bag then use magnets to stick the bag to the top of your fermenter. After a few days you remove the magnet on top of your fermenter and then the hops drop in. More on dry-hopping in the process section.
 ==- Brew paddle/spoon
 - [ ] obtained
 
-You need a big spoon or paddle to stir in the grains so you don't get "doughballs", basically clumps of grain that stick together and wouldn't have their sugars extracted properly. You need to break them up when you dump in the grain. Also, stir the wort post-boil helps to chill the work.
-==- BBQ Lighter
-- [x] obtained
-
-Need a bbq lighter to light the propane burner. Could use a match or bic but id highly recommend a bbq lighter.
+You need a big spoon or paddle to stir in the grains so you don't get "doughballs" -- basically clumps of grain that stick together and wouldn't have their sugars extracted properly. You need to break them up when you dump in the grain. Also useful for stirring during the boil.
 ==- Grain mill and board
 - [ ] obtained
 
-You won't need this right away but this is used to "crush" the grains. You need the grains to be crushed before you mash. Basically its busting open the grains to expose the fermentable sugars. When I started I just bought my grains pre-crushed. So wherever I bought my grain from, they would crush them for me. It costs a little extra but it's only noticeable after doing a lot of batches. Once I made the decision to buy in bulk since I was using a lot of the same grain, then I had to buy a grain mill in order to crush my own grains. I did the math at some point and it would pay for itself after like 15 brews, so I'm probably just coming up on that now. Anyways, you don't need this until you know you like doing this.
+You won't need this right away but this is used to "crush" the grains. You need the grains to be crushed before you mash. Basically its busting open the grains to expose the fermentable sugars. When starting out, just buy your grains pre-crushed from wherever you order. It costs a little extra but it's only noticeable after doing a lot of batches. Once you decide to buy in bulk (because you're using a lot of the same grain), then grab a grain mill. It pays for itself after about 15 brews. You don't need this until you know you like doing this.
 ==- Instant read thermometer
 - [ ] obtained
 
-This isn't absolutely necessary if you have another termometer, but the one I got is off amazon and was pretty cheap. It's good for meat too if you don't have one already. Sometimes I need to check the temp of the wort with this for instance when I'm taking a hydrometer reading, I want to know the temperature of the wort because that plays into the reading. This one is cheap and works great https://a.co/d/f6KKbD3
+This isn't absolutely necessary since the Brewzilla has a built-in temp probe, but it's good to have as a backup and for checking wort temp in your fermenter or when taking hydrometer readings. The Brewzilla's probe reads the temp at the bottom of the unit which can differ from what's happening in the grain bed. This one is cheap and works great https://a.co/d/f6KKbD3 -- good for meat too.
 ==- Bar Keepers Friend
 - [ ] obtained
 
-This is a cleaning powder similar to Comet,  it's made for cleaning metal, like stainless steel, silver, copper, shit like that. You can get it at any hardware store for like 7 bucks, lasts forever.
+This is a cleaning powder similar to Comet, it's made for cleaning metal, like stainless steel, silver, copper, shit like that. Great for keeping the Brewzilla looking clean. You can get it at any hardware store for like 7 bucks, lasts forever.
 ==- OxiClean
 - [ ] obtained
 
-This is a more affordable substitute for "PBW". It's another cleaning powder. You need to use this to sanitize your equipment before you begin your brew. I will explain everything about cleaning, but you absoltely need this shit. and UNSCENTED - here it is on amazon https://a.co/d/aR37YkU - shit lasts forever.
-==- Airlock and #10 rubber bung
-- [ ] obtained
-
-An air lock if a little plastic thing that you use on your fermentation bucket in order to let out CO2 that the yeast puts out, and keep O2 out. You want to do everything you can to avoid "oxygenating" your beer after the yeast has started. It can cause off flavours. Anyways, you take one of these things, close your fermenter and put the rubber bung in the hole, and then stick this airlock in the bung and poor some water in it to keep oxygen out of your fermenter. You probably want a couple airlocks cause they break kinda easy if you are tough with them.
-==- Buckets
-- [ ] obtained
-
-You need at least 3 brew buckets. You need them to have gallon measurements written on them. 1 bucket you will be using as your fermenter so it needs a lid with a hole in it (for your bung and airlock), and it should also have a spigot to make bottling day a hell of a lot easier. The other two buckets are good to have. One can be your grain bucket, so you can prep your brew by putting all your grains in this bucket (especially useful if you are crushing your own). The third bucket can be your wet bucket, use it for measuring out your brewing water, and sanitizing tools and stuff prior to racking the wort to your fermentor.
-==- Dry hop bag
-- [x] obtained
-
-You need at least 1 of these in order to dry hop your beer. 2 if you want to "DDH". Basically it's just a mesh bag that you can put hops in. I will detail the dry hopping process later.
-==- Pipe cleaners
-- [ ] obtained
-
-Good to have a ring of different sizes of these for cleaning ball valves. Link to amazon ones https://a.co/d/idiDRUZ
+This is a more affordable substitute for "PBW". It's another cleaning powder. You need to use this to clean your equipment. I will explain everything about cleaning, but you absolutely need this shit. UNSCENTED -- here it is on amazon https://a.co/d/aR37YkU -- lasts forever.
 ==- Star San
 - [ ] obtained
 
-Must have sanitizing solution. It's acid so don't get to much on your hands, I do all the time, but it makes them dry so I try to avoid. Basically ANYTHING that your beer will come in contact with has to be sanitized and this is what that is for. You will get used to using this a lot.
+Must have sanitizing solution. It's acid so don't get too much on your hands -- it makes them dry. Basically ANYTHING that your beer will come in contact with after the boil has to be sanitized and this is what that is for. You will get used to using this a lot. "Don't fear the foam" -- a thin layer of Star San foam is fine, it won't affect your beer.
 ==- Spray bottle
 - [ ] obtained
 
-Super handy to have this for sanitizing stuff qucikly. I mix a little bit of star san and water in the spray bottle so if I need to touch something with my ands like the spigot of the kettle or something, I can just use this to spray the spigot to quick sanitize it.
+Super handy to have this for sanitizing stuff quickly. Mix a little bit of Star San and water in the spray bottle so if you need to touch something like a spigot or valve, you can just spray it down for a quick sanitize.
+==- Airlock and #10 rubber bung
+- [ ] obtained
+
+An airlock is a little plastic thing that you put on your fermentation bucket to let out CO2 that the yeast produces, and keep O2 out. You want to do everything you can to avoid "oxygenating" your beer after the yeast has started -- it causes off flavors. You close your fermenter, put the rubber bung in the hole, stick the airlock in the bung, and pour some water in the airlock to seal it. Grab a couple airlocks cause they break kinda easy if you're rough with them.
+==- Buckets
+- [ ] obtained
+
+You need at least 2 brew buckets with gallon measurements on them. One is your fermenter -- it needs a lid with a hole (for your bung and airlock) and a spigot for bottling day. The other bucket is your utility bucket -- use it for measuring water, sanitizing tools, holding grains, etc. The Brewzilla replaces the need for a separate brew kettle, so you need fewer buckets than a traditional setup.
+==- Dry hop bag
+- [ ] obtained
+
+You need at least 1 of these in order to dry hop your beer. 2 if you want to "DDH" (double dry hop). It's just a mesh bag that you put hops in. Details on dry hopping are in the process section.
+==- Pipe cleaners
+- [ ] obtained
+
+Good to have a ring of different sizes of these for cleaning ball valves and the Brewzilla's recirculation pump fittings. Link to amazon ones https://a.co/d/idiDRUZ
 ==- Strainer
 - [ ] obtained
 
-Not totally necessary but I like to put a steel mesh strainer (sanitized) under my kettle spigot when transferring the wort to the fermentor. This helps with two things: 1) it keeps crud out of the fermenter. 2) it helps to aerate the wort. Apparently you want your wort to be well aerated before you put yeast on it, so this is good for that.
-==- Tylonol dropper
+Not totally necessary but handy to have a steel mesh strainer (sanitized) when transferring wort from the Brewzilla to the fermenter. Helps keep hop debris and trub out of the fermenter, and it aerates the wort as it passes through -- you want your wort well aerated before pitching yeast.
+==- Tylenol dropper
 - [ ] obtained
 
-Handy to have this for measuring and adding hydrochloric acid to your strike water.
+Handy to have this for measuring and adding hydrochloric acid or lactic acid to your strike water for pH adjustment.
 ==- Bottling wand
 - [ ] obtained
 
-You can attach this to your bottling bucket's spigot with a small piece of 1/8" tubing. You attach it to your spigot and then open the spigot valve to drain the wort into your bottles. What this wand does is it has a spring in it to keep the wort from coming out unless the spout is pushed against the bottom of your bottle. So you put this thing on and then wort only comes out when you put it into the bottom of a bottle. Its genious.
+You attach this to your fermenter's spigot with a small piece of tubing. It has a spring-loaded tip that only lets beer flow when you press it against the bottom of a bottle. Open the spigot, stick the wand in a bottle, press down, beer flows. Lift up, beer stops. Genius.
+==- Bottle capper and caps
+- [ ] obtained
+
+You'll need a bench capper or wing capper and a bag of crown caps. The bench capper is easier to use and more reliable but costs more. Wing cappers are cheap and work fine, just a bit more fiddly. You can get caps in bulk for cheap.
+==- Bottles
+- [ ] obtained
+
+You need about 48-50 twelve-ounce bottles per 5 gallon batch. You can buy new ones, but the cheapest move is saving non-twist-off bottles from beers you drink. Brown bottles are best because they block light (light skunks beer). Give them a good soak in OxiClean to remove labels and crud, then sanitize with Star San on bottling day.
 ==- Dishwashing gloves
 - [ ] obtained
 
-Good to have cause some parts of the process involve touching hot water.
+Good to have because some parts of the process involve touching hot water, and cleaning with OxiClean and Star San is rough on your hands.
+==- Auto-siphon (optional)
+- [ ] obtained
+
+Not strictly necessary if your fermenter has a spigot, but handy to have for transferring beer between vessels without disturbing sediment. Get a 3/8" auto-siphon with matching tubing.
 ==-
